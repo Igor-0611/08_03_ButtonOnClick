@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">08_03_ButtonOnClick</string>
+    <string name="app_title">«Все наоборот»</string>
+    <string name="hint_input_text">Поле ввода текста</string>
+    <string name="button_name">Преобразовать</string>
+    <string name="hint_output_text">Результат</string>
+    <string name="hint_count_chars">Количество символов</string>
+</resources>
